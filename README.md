@@ -15,7 +15,6 @@ and 1's, in any sequence and then displays its decimal equivalent.
 This challenge requires that the developer implementing it follow these
 constraints:
 
-- Arrays may not be used contain the binary digits entered by the user
 - Determining the decimal equivalent of a particular binary digit in the
   sequence must be calculated using a single mathematical function, for
   example the natural logarithm. It's up to you to figure out which function
@@ -30,3 +29,4 @@ constraints:
 ## Bonus features
 
 - [ ] User can enter a variable number of binary digits
+- [ ] User can speech the binary saying zero or one
